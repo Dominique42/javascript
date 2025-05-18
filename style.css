@@ -8,16 +8,18 @@
 body {
     text-align: center;
     margin: 0;
-    color: rgb(6, 6, 6);
-    min-height: 200vh;
+    color: rgb(83, 5, 5);
+    min-height: 200 vh;
 
 }
 
 .box{
 
     border: 6px solid color white;
-    background: rgb(82, 6, 6);
+    background: black;
     transition: 0.25s ease;
+    
+    
     
 }
 
@@ -25,5 +27,5 @@ p{
     visibility: hidden;
     width: 240px;
     margin: 10px auto 0;
-    
+
 }

@@ -8,5 +8,3 @@
 
 //click event
 
-const questionContainer = document.querySelector (".click-ent");
-questionContainer.borderRadius = "150px"
