@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style: none;
+
+}
+
+body {
+    text-align: center;
+    margin: 0;
+    color: rgb(6, 6, 6);
+    min-height: 200vh;
+
+}
+
+.box{
+
+    border: 6px solid color white;
+    background: rgb(82, 6, 6);
+    transition: 0.25s ease;
+    
+}
+
+p{
+    visibility: hidden;
+    width: 240px;
+    margin: 10px auto 0;
+    
+}
